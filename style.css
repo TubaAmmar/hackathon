@@ -1,0 +1,403 @@
+.c1{
+    background-color: #091E3E;
+    color: #EEF9ED;
+}
+
+.circle{
+
+    font-size: 1rem;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid white;
+
+}
+
+.carouselcaption1{
+    font-size: 2rem;
+    font-weight: 600;
+    color: black;
+}
+
+.clientpart1{
+    background-color: #06A3DA;
+    color: white;
+    height: 170px;
+}
+
+.clientpart2{
+    
+   
+    background-color: #EEF9FF ;
+
+}
+
+.iconuser{
+    
+    color: #06A3DA;
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    display: grid;
+    place-items: center;
+}
+
+.iconuser1{
+    background-color: #06A3DA;
+    color: white;
+}
+
+.numbers{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.numbers1{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: black;
+}
+
+.projectdone{
+    color: #06A3DA ;
+}
+
+.c2{
+  position: absolute;
+  top: 110%;
+  left: 8%;
+ 
+  z-index: 1;
+    
+}
+
+.c3{
+    margin-top: 16rem;
+}
+.bestit{
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+.horizontal{
+    height: 10px;
+    background-color: #037da9;
+    color: #06A3DA ;
+    width: 30%;
+    display: grid;
+    place-items: center;
+    margin: 0 auto;
+    
+}
+
+.horizontal1{
+    height: 10px;
+    background-color: #037da9;
+    color: #06A3DA ;
+    width: 30%;
+    
+    
+}
+
+.iconuser2{
+    color:#06A3DA;
+    font-size: 1.8rem;
+    font-weight: 800;
+
+}
+
+.iconuser3{
+    color:#06A3DA;
+    font-size: 1.3rem;
+    font-weight: 800;
+
+}
+
+.paraaward{
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+
+.paraaward2{
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
+
+
+
+.support{
+    margin-left: 7rem;
+}
+
+.fair{
+    margin-left: 6rem;
+}
+
+.phoneicon{
+    width: 60px;
+    height: 60px;
+    background-color:#06A3DA ;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+.askme{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.phonenumber{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #06A3DA ;
+}
+
+.btn1{
+    width: 200px;
+    padding: 1rem;
+    background-color: #06A3DA;
+    border: 0;
+}
+
+.img1{
+   
+    width: 500px;
+    height: 580px;
+}
+
+.chooseus{
+ 
+    color: #06A3DA;
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-top: 8rem;
+}
+
+.growbusiness{
+    font-weight: 700;
+}
+
+
+.img2{
+    width: 340px;
+    height: 400px;
+}
+
+.card{
+    background-color: #EEF9FF;
+}
+
+.card-body{
+
+    display: grid;
+    place-items: center;
+}
+
+.lastcard{
+    background-color: #06A3DA;
+}
+
+.basicplan{
+    color: #06A3DA;
+    font-size: 1.5rem;
+}
+.smallsizebusiness{
+font-size: .6rem;
+font-weight: 600;
+}
+
+.dollar{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.sign{
+    font-size: 1.3rem;
+}
+
+.month{
+    font-size: .6rem;
+}
+
+.check{
+    color: #06A3DA;
+}
+
+.btn-2{
+    width: 130px;
+    background-color: #06A3DA;
+    padding: .3rem;
+    color: #EEF9ED;
+}
+
+
+.card2{
+
+    background-color: white;
+    color: black;
+    z-index: 1;
+    position: relative;
+    
+}
+
+
+.inputs{
+  width: 330px;
+
+  border-radius: 0;
+  padding-left:2.5rem;
+  padding-top:3rem;
+}
+
+.input{
+    background-color: #06A3DA;
+    width: 380px;
+    height: 410px;
+}
+
+.btn-3{
+    margin: 0 auto;
+    background-color: #091E3E;
+    color: white;
+    padding: .7rem;
+    width: 290px;
+}
+
+.img3{
+    width: 356px;
+    height: 300px;
+}
+
+.user{
+    font-size: .9rem;
+    color: #06A3DA;
+}
+
+.john{
+    font-size: .9rem;
+}
+
+.img4{
+
+    width: 130px;
+    
+}
+
+.brands{
+    margin-top: 5rem;
+}
+
+.footer{
+    background-color: #1D2547;
+    height: 500px;
+    margin-top: 8rem;
+}
+.fp1{
+    color: white;
+    margin-top: 2rem;
+    margin-left: 1;
+   
+}
+
+.fp2{
+    color: white;
+    margin-top: 2rem;
+    margin-left: 1;
+   
+}
+
+.fp2 p{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 1rem;
+
+}
+
+.fp2 p:hover{
+  background-color: #931800;
+
+}
+
+.footer1{
+    margin-top: 6rem;
+    margin-left: 5rem;
+    color: white;
+
+}
+
+.delivery1{
+    font-size: 2rem;
+}
+
+.heading{
+    margin-bottom:4rem;
+}
+
+.footer5{
+    color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 4rem;
+}
+
+.image5{
+    width: 400px;
+    height: 400px;
+}
+
+.nav1{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.carousel-item{
+    height: 100vh;
+    min-height:300px;
+    background: no-repeat center center-scroll;
+    background-size: cover;
+}
+
+.carousel-caption{
+    bottom: 280px;
+}
+
+.navbar1{
+    margin-left: 50rem;
+}
+
+
+ 
+
+
+
+
+
+
+@media (max-width:1140px){
+   .cpart{
+    display: flex;
+    flex-direction: column;
+    font-size: 9px;
+    overflow-x: hidden;
+   
+   }
+
+   .cpart2{
+     margin-top: 1rem;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+
+   .icon1{
+    padding-left:.5rem;
+   }
+
+   
+}
